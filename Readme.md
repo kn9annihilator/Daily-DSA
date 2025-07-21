@@ -18,4 +18,14 @@ I aim to improve my algorithmic thinking, which is essential for cracking placem
 - Problems are sourced from platforms like LeetCode, GeeksforGeeks, and Striver's A2Z Sheet.
 - All solutions are written with clarity and efficiency in mind.
 
+### EC2 vs. Traditional Hosting: A Comparison
 
+| **Feature**                  | **Amazon EC2**                              | **Traditional On-Prem Hosting**         |
+|------------------------------|---------------------------------------------|-----------------------------------------|
+| **Provisioning Speed**       | Minutes                                     | Days or weeks                           |
+| **Upfront Cost**             | None (pay-as-you-go)                        | High (hardware and setup costs)         |
+| **Scalability**              | Elastic, auto-scaling possible              | Manual, hardware-limited                |
+| **Availability**             | Multi-AZ and regional support               | Single-site dependency                  |
+| **Maintenance Responsibility** | AWS manages infrastructure                | Customer manages all hardware/software  |
+| **Elasticity**               | Instantly scalable                          | Static until manually upgraded          |
+| **Pricing Flexibility**      | On-Demand, Reserved, Spot, Savings Plans    | Fixed capital expenditure               |
