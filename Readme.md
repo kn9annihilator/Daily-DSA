@@ -19,14 +19,3 @@ I aim to improve my algorithmic thinking, which is essential for cracking placem
 - All solutions are written with clarity and efficiency in mind.
 
 
-### AWS Security Services Comparison
-
-| **Service**         | **Purpose**                          | **Focus Area**                | **Integrated With**                   |
-|---------------------|--------------------------------------|-------------------------------|---------------------------------------|
-| **AWS CloudTrail**  | Logs API calls and activity          | Visibility & Auditing         | All AWS Services                      |
-| **AWS Config**      | Tracks configuration changes         | Compliance & Governance       | IAM, EC2, S3, VPC, and more           |
-| **AWS GuardDuty**   | Detects threats using ML             | Threat Detection              | VPC Flow Logs, CloudTrail, DNS Logs   |
-| **AWS KMS**         | Manages encryption keys              | Data Protection               | S3, EBS, RDS, Lambda, and more        |
-| **Secrets Manager** | Manages and rotates secrets          | Application Security          | RDS, Lambda, ECS, IAM                 |
-| **Amazon Macie**    | Finds sensitive data in S3           | Data Classification           | Amazon S3                             |
-| **AWS Security Hub**| Centralizes findings from services   | Security Posture Management   | GuardDuty, Macie, Inspector, 3rd-party|
